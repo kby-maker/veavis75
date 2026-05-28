@@ -1,0 +1,6 @@
+{
+  "name": "YounMe AI",
+  "description": "KOCOM Smart Living Solutions - Premium IoT Wallpads, AI CCTV video surveillance, and energy-saving Smart LED Lighting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
